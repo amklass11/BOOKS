@@ -23,7 +23,7 @@ const Book = (props) => {
           <button className="blue-font" type="button">Comments</button>
           <span> | </span>
           <button id={id} className="remove blue-font" type="button" onClick={removeHandler}>
-            Remov
+            Remove
           </button>
           <span> | </span>
           <button className="blue-font" type="button">Edit</button>
